@@ -111,7 +111,7 @@ alt="Tableau"
 title="Tableau" 
 width="25px" 
 style="padding-right: 10px;"
-src="./tableau.jpg" />
+src="./tableau.png" />
 
 <img 
 align="left"
