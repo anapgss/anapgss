@@ -112,4 +112,12 @@ title="Tableau"
 width="25px" 
 style="padding-right: 10px;"
 src="./tableau.jpg" />
+
+<img 
+align="left"
+alt="Looker Studio"
+title="Looker Studio" 
+width="25px" 
+style="padding-right: 10px;"
+src="./looker.png" />
  
