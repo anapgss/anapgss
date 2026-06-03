@@ -97,5 +97,19 @@
   style="pandding-rigth: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 
-<img align="left" alt="Power BI" title="Power BI" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" />
+<img 
+align="left"
+alt="Power BI"
+title="Power BI" 
+width="25px" 
+style="padding-right: 10px;"
+src="./powerbi.svg.svg" />
+ 
+<img 
+align="left"
+alt="Tableau"
+title="Tableau" 
+width="25px" 
+style="padding-right: 10px;"
+src="./tableau.svg.svg" />
  
