@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ana Paula 😊
 
-- 🔭 Sou formada em Engeharia civil pelo Instituto Feederal
+- 🔭 Sou formada em Engeharia civil pelo Instituto Federal
 - 🌱 Pronome:ela/dela
 
 
