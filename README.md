@@ -120,4 +120,12 @@ title="Looker Studio"
 width="25px" 
 style="padding-right: 10px;"
 src="./looker.png" />
- 
+
+<br/>
+<br/>
+
+### 📊 Estatíticas
+
+<img align="left" alt="Github Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapgss" />
+
+
