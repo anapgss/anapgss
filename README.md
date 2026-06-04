@@ -130,9 +130,10 @@ src="./looker.png" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anapgss&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anapgss&layout=compact&langs_count=8)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=anapgss&show_icons=true)
 
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapgss&theme=tokyonight&layout=compact&langs_count=6" />
 
 
