@@ -127,14 +127,12 @@ src="./looker.png" />
 
 ### 📊 Estatíticas
 
-<img align="left" alt="Github Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapgss" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anapgss&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
 
-<picture>
-  <img alt="pacman" src="https://github.com/anapgss/anapgss/blob/output/github-contribution-grid-pacman.svg" />
-</picture>
 
-<img src="https://raw.githubusercontent.com/anapgss/anapgss/output/ocean.gif" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapgss&theme=tokyonight&layout=compact&langs_count=6" />
 
 
