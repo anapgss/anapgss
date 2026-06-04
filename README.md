@@ -1,10 +1,17 @@
 ## Olá! Eu sou a Ana Paula 😊
 
-- 🔭 Sou formada em Engeharia civil pelo Instituto Federal
-- 🌱 Pronome:ela/dela
+<!-- HEADER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Ana%20Paula%20Gomes%20Soares&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
+<!-- FRASE -->
+<p align="center">
+  💻 Desenvolvedora em formação | Criando soluções com tecnologia
+</p>
 
 ---
+
 ### 🤖Linguagens e tecnologias
 
 <img 
@@ -125,14 +132,31 @@ src="./looker.png" />
 <br/>
 
 
-### 📊 Estatíticas
+## Projetos em Destaque
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anapgss&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
+---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anapgss&layout=compact&langs_count=8)
+## Atividade
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anapgss&show_icons=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anapgss&bg_color=28313ab&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" />
+
+---
+
+## Contato
+
+<p align="center">
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+---
+
+<p align="center">
+  Obrigada por visitar meu perfil!
+</p>
+
+
 
 
 
