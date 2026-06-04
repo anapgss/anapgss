@@ -1,18 +1,14 @@
 ## Olá! Eu sou a Ana Paula 😊
 
-<!-- HEADER ANIMADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Ana%20Paula%20Gomes%20Soares&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
 
-<!-- FRASE -->
+
 <p align="center">
   💻 Desenvolvedora em formação | Criando soluções com tecnologia
 </p>
 
 ---
 
-### 🤖Linguagens e tecnologias
+### Linguagens e tecnologias
 
 <img 
   align="left"
